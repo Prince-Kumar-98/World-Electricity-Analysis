@@ -28,3 +28,8 @@ it will provide you the quick information about the data.
 - Copy the outputs of aggregation into Excel File and build an Interactive Dashboard.
 - Please go through PPT File for better understanding of our Work.
 
+## About Me
+I'm a Data Analyst Enthusiast, have honed my skills in data analysis, visualization, and machine learning. With hands-on experience in Python, SQL, Excel, and PowerBI, I am proficient in extracting insights and delivering data-driven solutions. My passion for data-driven decision making and problem-solving is evident in my work.
+
+
+
